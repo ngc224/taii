@@ -6,7 +6,7 @@ import (
 	"os"
 
 	"github.com/fsnotify/fsnotify"
-	"github.com/ngc224/taii"
+	"github.com/nissy/taii"
 )
 
 const (

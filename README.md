@@ -4,7 +4,7 @@ Things like tail commands
 ### Install
 
 ```
-go get -u github.com/ngc224/taii/cmd/taii
+go get -u github.com/nissy/taii/cmd/taii
 ```
 
 ### Help
